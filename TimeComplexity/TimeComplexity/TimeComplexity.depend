@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1638259290 source:c:\users\gekol\desktop\timecomplexity\timecomplexity\timecomplexity.cpp
+	<iostream>
+	<chrono>
+
