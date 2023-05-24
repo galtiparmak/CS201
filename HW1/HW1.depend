@@ -1,0 +1,79 @@
+# depslib dependency file v1.0
+1637134367 source:c:\users\gekol\desktop\homework\hw1\chemical.cpp
+	"Chemical.h"
+	<iostream>
+	<string>
+
+1637164300 c:\users\gekol\desktop\homework\hw1\chemical.h
+	<iostream>
+	<string>
+
+1637134811 source:c:\users\gekol\desktop\homework\hw1\cabinet.cpp
+	"Cabinet.h"
+	<iostream>
+	<string>
+	<sstream>
+
+1637164295 c:\users\gekol\desktop\homework\hw1\cabinet.h
+	"Chemical.h"
+	<iostream>
+	<string>
+
+1637134441 source:c:\users\gekol\desktop\homework\hw1\laborganizer.cpp
+	"LabOrganizer.h"
+	"Cabinet.h"
+	<iostream>
+	<string>
+
+1637164290 c:\users\gekol\desktop\homework\hw1\laborganizer.h
+	"Cabinet.h"
+	"Chemical.h"
+	<iostream>
+	<string>
+
+1637132374 source:c:\users\gekol\desktop\homework\hw1\main.cpp
+	<iostream>
+	"LabOrganizer.h"
+	"Chemical.h"
+	"Cabinet.h"
+	<string>
+
+1637164269 source:c:\users\gekol\desktop\dersler\cs201\homework\hw1\cabinet.cpp
+	"Cabinet.h"
+	<iostream>
+	<string>
+	<sstream>
+
+1637164295 c:\users\gekol\desktop\dersler\cs201\homework\hw1\cabinet.h
+	"Chemical.h"
+	<iostream>
+	<string>
+
+1637164300 c:\users\gekol\desktop\dersler\cs201\homework\hw1\chemical.h
+	<iostream>
+	<string>
+
+1637164283 source:c:\users\gekol\desktop\dersler\cs201\homework\hw1\chemical.cpp
+	"Chemical.h"
+	<iostream>
+	<string>
+
+1637164277 source:c:\users\gekol\desktop\dersler\cs201\homework\hw1\laborganizer.cpp
+	"LabOrganizer.h"
+	"Cabinet.h"
+	<iostream>
+	<string>
+
+1637164290 c:\users\gekol\desktop\dersler\cs201\homework\hw1\laborganizer.h
+	"Cabinet.h"
+	"Chemical.h"
+	<iostream>
+	<string>
+
+1637132374 source:c:\users\gekol\desktop\dersler\cs201\homework\hw1\main.cpp
+	<iostream>
+	"LabOrganizer.h"
+	"Chemical.h"
+	"Cabinet.h"
+	<string>
+
